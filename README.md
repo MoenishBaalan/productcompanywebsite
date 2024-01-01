@@ -74,9 +74,6 @@ Home.html
           </div>
         </div>
       </div>
-      <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Meyyappan.
-      </div>
     </div>
   </body>
 </html>
@@ -195,9 +192,6 @@ product.html
           <div class="itemprice">Price: Rs.2000.00 </div>
         </div>     
       </div>
-      <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Meyyappan.
-      </div>
     </div>
   </body>
 </html>
@@ -264,9 +258,6 @@ people.html
         </div>
       </div>        
     </div>
-    <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Meyyappan .
-    </div>
     </div>
   </body>
 </html>
@@ -322,9 +313,6 @@ contactus.html
           </div>
         </div>
       </div>
-    <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Meyyappan .
-    </div>
     </div>
   </body>
 </html>
@@ -340,15 +328,17 @@ contactus.html
 
 ### Products page:
 
-![WhatsApp Image 2024-01-01 at 15 06 05_4bfdbb48](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/b600e8a6-1cb7-43f8-a9fb-039a1b7c4339)
+![WhatsApp Image 2024-01-01 at 15 09 44_ff192eec](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/9f6ec9d3-8730-4b63-8cbf-6ae08138161a)
+
 
 ### People page:
 
-![WhatsApp Image 2024-01-01 at 15 05 52_1488ff05](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/63c64245-05bd-4daf-a507-6b1a705ec1e3)
+![WhatsApp Image 2024-01-01 at 15 09 14_303051c9](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/58e545c2-6b9e-4d85-9262-e0f4e128604f)
 
 ### Contact_us page:
 
-![WhatsApp Image 2024-01-01 at 15 05 35_84433161](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/81dd3b17-ce15-4057-9f11-2f57a01d0447)
+![WhatsApp Image 2024-01-01 at 15 09 34_6546642c](https://github.com/MoenishBaalan/productcompanywebsite/assets/147473396/b972ea2b-36eb-4fe9-abc4-783a25fbbeb5)
+
 
 ## Result:
 
